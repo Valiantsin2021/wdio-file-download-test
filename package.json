@@ -28,6 +28,6 @@
         "pdf2json": "^2.0.1",
         "pdfreader": "^3.0.0",
         "read-excel-file": "^5.5.0",
-        "rimraf": "^3.0.2"
+        "rimraf": "^5.0.0"
     }
 }
