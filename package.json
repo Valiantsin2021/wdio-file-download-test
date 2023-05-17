@@ -21,7 +21,7 @@
         "@wdio/selenium-standalone-service": "^7.24.0",
         "@wdio/spec-reporter": "^7.24.0",
         "allure-commandline": "^2.18.1",
-        "axios": "^0.27.2",
+        "axios": "^1.0.0",
         "chai": "^4.3.6",
         "node-fetch": "^3.2.10",
         "pdf-parse": "^1.1.1",
